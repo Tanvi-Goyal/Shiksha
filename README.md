@@ -45,6 +45,6 @@ The Android App is enriched with more features and functionality like Student Tr
 
 ## Team
 
-[![Prashant Kumar](https://avatars3.githubusercontent.com/u/21136317?s=144&v=3)](https://github.com/Prashant-123/)  | [![Tanvi Goyal](https://avatars2.githubusercontent.com/u/32615769?s=144&v=3)](https://github.com/Tanvi-Goyal/)
+[![Tanvi Goyal](https://avatars2.githubusercontent.com/u/32615769?s=144&v=3)](https://github.com/Tanvi-Goyal/) | [![Prashant Kumar](https://avatars3.githubusercontent.com/u/21136317?s=144&v=3)](https://github.com/Prashant-123/)  | 
 ---|---
 [Tanvi Goyal](https://github.com/Tanvi-Goyal/) | [Prashant Kumar](https://github.com/Prashant-123/) 
